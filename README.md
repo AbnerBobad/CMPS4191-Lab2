@@ -1,3 +1,15 @@
+# Advanced Web Technologies Week 3 Lab 2
+- Asynchronous Report
+-- Abner Bobadilla & Christian Hope
+
+
+## Lab Report
+
+| Format | Link |
+|---|---|
+| Google Docs (view) | [Open][View report (Google Docs)](https://docs.google.com/document/d/1xkGE_FCYPhSCEbDTGLuCyQVmZwS4gZBbSLE-fmixUJs/edit?usp=sharing) |
+| PDF (download) | [Download](./lab2/CMPS4191_Lab2_HC_BA.pdf) |
+
 # GateKeeper: asynchronous report API
 
 This complete starter repository accompanies the `202 Accepted + Job + Worker`
