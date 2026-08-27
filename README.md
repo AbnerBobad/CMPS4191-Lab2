@@ -3,7 +3,7 @@
 -- Abner Bobadilla & Christian Hope
 
 
-## Lab Report
+## Lab2 Report
 
 | Format | Link |
 |---|---|
